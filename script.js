@@ -49,5 +49,5 @@ const again = document.querySelector('.again').addEventListener('click', functio
     document.querySelector(".score").textContent = score;
     document.querySelector('body').style.backgroundColor = "#222"
     document.querySelector('.guess').value = '';
-    document.querySelector('.message').textContent = "Start guessing....";
+    document.querySelector('.message').textContent = "Lets Go...Start guessing....";
 })
